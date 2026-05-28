@@ -21,7 +21,7 @@ url: "https://blog.tonyhhyip.me" # the base hostname & protocol for your site, e
 github_username:  tonyhhyip
 repository: tonyhhyip/blog.tonyhhyip.me
 
-google_analytics_tag: G-E2SJZJRNXQ
+gtm_id: 'GTM-M6ZGJMK2'
 
 # Build settings
 markdown: kramdown

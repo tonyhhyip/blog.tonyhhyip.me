@@ -8,4 +8,7 @@
   {%- if site.google_analytics_tag -%}
     {%- include google-analytics.html -%}
   {%- endif -%}
+  {%- if site.gtm_id -%}
+    {%- include google-tag-manager.html -%}
+  {%- endif -%}
 </head>
