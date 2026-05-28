@@ -21,9 +21,10 @@ url: "https://blog.tonyhhyip.me" # the base hostname & protocol for your site, e
 github_username:  tonyhhyip
 repository: tonyhhyip/blog.tonyhhyip.me
 
+google_analytics_tag: G-E2SJZJRNXQ
+
 # Build settings
 markdown: kramdown
-#theme: jekyll-theme-slate
 theme: minima
 plugins:
   - jekyll-feed
